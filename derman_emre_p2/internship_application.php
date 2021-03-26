@@ -4,7 +4,7 @@
  function apply($cid,$password){
    $host = 'dijkstra.ug.bcc.bilkent.edu.tr';
    $username = 'emre.derman';
-   $pword = 'Gty1Mlp7';
+   $pword = '******';
    $dbname = 'emre_derman';
    $mysqli = new mysqli($host,$username,$pword,$dbname);
    $apply_query =  "insert into apply(sid,cid) values ('$password' , '$cid')";
