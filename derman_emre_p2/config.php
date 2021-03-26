@@ -4,9 +4,9 @@ if(!defined('dbname')) define ('dbname', 'cs353');
 if(!defined('username')) define ('username', 'derman');
 if(!defined('password')) define ('password', 'password');
 $host = 'dijkstra.ug.bcc.bilkent.edu.tr';
-$username = 'emre.derman';
-$password = 'Gty1Mlp7';
-$dbname = 'emre_derman';
+$username = '******';
+$password = '********';
+$dbname = '********';
 $mysqli = new mysqli($host,$username,$password,$dbname);
 
 if($mysqli-> connect_errno){
