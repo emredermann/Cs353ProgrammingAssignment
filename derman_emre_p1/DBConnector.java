@@ -11,8 +11,8 @@ public class DBConnector {
 			e.printStackTrace();
 		}
 		final String USERNAME="emre.derman";
-		final String PASSWORD="Gty1Mlp7";
-		final String DBNAME="emre_derman";
+		final String PASSWORD="*******";
+		final String DBNAME="******";
 		final String URL="jdbc:mysql://dijkstra.ug.bcc.bilkent.edu.tr/"+DBNAME;
 		Connection connection = null; 
 		
