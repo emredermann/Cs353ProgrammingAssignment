@@ -1,1 +1,1 @@
-# CS 353 Database Systems Programming Assingments
+# CS 353 Database Systems Programming Assignments
